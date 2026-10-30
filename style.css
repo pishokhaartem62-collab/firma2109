@@ -105,3 +105,8 @@ footer a:first-child{margin-left:0}
   .calc{padding:28px 22px}.price{font-size:44px}
   .big-word{font-size:34px}.tile h3{font-size:28px}
 }
+
+/* Logo */
+.brand{display:flex;align-items:center;gap:10px;font-size:17px;letter-spacing:-.02em;font-weight:700}
+.brand .mark{flex:none;display:block}
+.brand b{color:#2997FF;font-weight:700}
