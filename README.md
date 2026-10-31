@@ -1,4 +1,4 @@
-# Webseite – Webentwicklung & Automatisierung
+# AP Technologies – Webseite
 
 Statische Landingpage (HTML, CSS, JavaScript) mit interaktivem Angebotsrechner-Demo für 5 Branchen. Kein Build-Schritt, keine Abhängigkeiten, keine Cookies, kein Tracking.
 
